@@ -17,8 +17,8 @@ My journey in the world of code began with curiosity, and it has grown into a fu
 
 - **Languages:** Python 🐍, JavaScript 🌐, Java ☕️
 - **Frontend:** React ⚛️, HTML5, CSS3
-- **Backend:** Node.js, Express.js, Spring Boot
-- **Database:** MongoDB 🍃, SQL
+- **Backend:** Django, Node.js, Express.js, Spring Boot
+- **Database:** MongoDB 🍃, MySQL, PostgreSQL
 - **Version Control:** Git
 
 ## Get in touch 📬
